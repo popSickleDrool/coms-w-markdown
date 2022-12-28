@@ -9,3 +9,6 @@
 let y = x;
 let x = c;
 ```
+- [ ] Check formatting
+- [ ] Continue 
+- [ ] Enjoy
